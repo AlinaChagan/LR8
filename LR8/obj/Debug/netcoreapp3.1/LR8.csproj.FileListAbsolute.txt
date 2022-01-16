@@ -1,0 +1,13 @@
+C:\ALINA\Term3\ООП\лабораторные\лаба8\LR8\bin\Debug\netcoreapp3.1\LR8.exe
+C:\ALINA\Term3\ООП\лабораторные\лаба8\LR8\bin\Debug\netcoreapp3.1\LR8.deps.json
+C:\ALINA\Term3\ООП\лабораторные\лаба8\LR8\bin\Debug\netcoreapp3.1\LR8.runtimeconfig.json
+C:\ALINA\Term3\ООП\лабораторные\лаба8\LR8\bin\Debug\netcoreapp3.1\LR8.runtimeconfig.dev.json
+C:\ALINA\Term3\ООП\лабораторные\лаба8\LR8\bin\Debug\netcoreapp3.1\LR8.dll
+C:\ALINA\Term3\ООП\лабораторные\лаба8\LR8\bin\Debug\netcoreapp3.1\LR8.pdb
+C:\ALINA\Term3\ООП\лабораторные\лаба8\LR8\obj\Debug\netcoreapp3.1\LR8.csprojAssemblyReference.cache
+C:\ALINA\Term3\ООП\лабораторные\лаба8\LR8\obj\Debug\netcoreapp3.1\LR8.AssemblyInfoInputs.cache
+C:\ALINA\Term3\ООП\лабораторные\лаба8\LR8\obj\Debug\netcoreapp3.1\LR8.AssemblyInfo.cs
+C:\ALINA\Term3\ООП\лабораторные\лаба8\LR8\obj\Debug\netcoreapp3.1\LR8.csproj.CoreCompileInputs.cache
+C:\ALINA\Term3\ООП\лабораторные\лаба8\LR8\obj\Debug\netcoreapp3.1\LR8.dll
+C:\ALINA\Term3\ООП\лабораторные\лаба8\LR8\obj\Debug\netcoreapp3.1\LR8.pdb
+C:\ALINA\Term3\ООП\лабораторные\лаба8\LR8\obj\Debug\netcoreapp3.1\LR8.genruntimeconfig.cache
